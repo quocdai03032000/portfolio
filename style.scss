@@ -1,0 +1,16 @@
+.updating {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    & img {
+        width: 30%;
+    }
+    & h3 {
+        color: #1A323E;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        margin-top: 3rem;
+    }
+}
